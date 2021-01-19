@@ -37,3 +37,4 @@ MAC/.DS_Store
 */Debug
 */Release
 .DS_Store
+*.xcuserstate
