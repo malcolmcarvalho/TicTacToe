@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+MAC/.DS_Store
+*.yaml
+
+*/Build
+*/Debug
+*/Release
