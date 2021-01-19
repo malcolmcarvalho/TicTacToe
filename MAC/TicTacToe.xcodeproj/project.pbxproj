@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		D4D6B53625B757E2007B82D5 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D4D6B53525B757E2007B82D5 /* main.cpp */; };
+		D4CB0F4725B75C9000951801 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D4CB0F4625B75C9000951801 /* main.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,7 +24,7 @@
 
 /* Begin PBXFileReference section */
 		D4794E3525AD8675007C8D27 /* TicTacToe */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = TicTacToe; sourceTree = BUILT_PRODUCTS_DIR; };
-		D4D6B53525B757E2007B82D5 /* main.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = main.cpp; path = ../../../WrigglySnake/main.cpp; sourceTree = "<group>"; };
+		D4CB0F4625B75C9000951801 /* main.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,9 +57,10 @@
 		D4794E3725AD8675007C8D27 /* TicTacToe */ = {
 			isa = PBXGroup;
 			children = (
-				D4D6B53525B757E2007B82D5 /* main.cpp */,
+				D4CB0F4625B75C9000951801 /* main.cpp */,
 			);
-			path = TicTacToe;
+			name = TicTacToe;
+			path = ..;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -118,7 +119,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D4D6B53625B757E2007B82D5 /* main.cpp in Sources */,
+				D4CB0F4725B75C9000951801 /* main.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
